@@ -1,4 +1,4 @@
-import numpy as np #sayan
+import numpy as np 
 import matplotlib.pyplot as pl
 c=3e8  #In meter/s
 Ho=70*1000 #In Megaparsec
